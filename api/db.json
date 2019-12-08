@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "title": "Yare",
+      "title": "Jotaro",
       "description": "yare yare Desu",
       "userId": "115289168986091875463",
       "id": 3
@@ -11,6 +11,30 @@
       "description": "Me Seeks",
       "userId": "115289168986091875463",
       "id": 7
+    },
+    {
+      "title": "blegh",
+      "description": "I ate something gross",
+      "userId": "115289168986091875463",
+      "id": 8
+    },
+    {
+      "title": "Star",
+      "description": "Platinum",
+      "userId": "115289168986091875463",
+      "id": 10
+    },
+    {
+      "title": "Useless",
+      "description": "Muda Muda Muda Muda Muda Muda Muda Muda Muda Muda Muda Muda Muda Muda",
+      "userId": "115289168986091875463",
+      "id": 11
+    },
+    {
+      "title": "Back in my day",
+      "description": "we had to walk up hill both ways to get to school",
+      "userId": "115289168986091875463",
+      "id": 12
     }
   ]
 }
